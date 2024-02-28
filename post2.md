@@ -1,8 +1,8 @@
 ---
-title: "kdjd sjksd sdkhsdjs dksdsdlsjd"
+title: "new kdjd sjksd sdkhsdjs "
 seoTitle: "kdjd sjksd sdkhsdjs dksdsdlsjd"
 date: "2020-02-20T22:37:25.509Z"
-slug: "sksdj"
+slug: "new dksldj"
 tags: serp-games, serp-best, serp-deals, serp-reviews
 domain: favo-demo.hashnode.dev
 enableToc: true
