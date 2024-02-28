@@ -1,8 +1,8 @@
 ---
 title: "new article "
 seoTitle: "new article"
-slug: "new article"
-tags: serp-games, serp-best, serp-deals, serp-reviews
+slug: new-article
+tags: kjlk
 domain: favo-demo.hashnode.dev
 enableToc: true
 image: ""
@@ -10,12 +10,11 @@ saveAsDraft: false
 hideFromHashnodeCommunity: true
 ---
 
-sjgshdjsdsd s ds d sd s ds ds duysiduhsjkdjs dsdusdisijdisds djsduhsdjsjdskdksjkdjsds dsjdnskdjsjjds dsudjshdsjdnsjdsd sdjsndnskds
-dsdjs
-sd
-sd
-s
-ds
+zjxz
+z
+x
+xz
+xz
 
 sdsds
 sjsdhkj
