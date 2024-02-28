@@ -8,7 +8,7 @@ domain: favo-demo.hashnode.dev
 publishAs: demoacc
 enableToc: true
 image: ""
-saveAsDraft: true
+saveAsDraft: false
 hideFromHashnodeCommunity: true
 ---
 
