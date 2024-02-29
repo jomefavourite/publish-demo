@@ -1,8 +1,8 @@
 ---
-title: All JS
+title: All js
 seoTitle: All js
 slug: js
-tags: javascript
+tags: serp-games, serp-best, serp-deals, serp-reviews
 domain: favo-demo.hashnode.dev
 publishAs: demoacc
 enableToc: true
@@ -11,12 +11,12 @@ saveAsDraft: false
 hideFromHashnodeCommunity: true
 ---
 
-sjhksnaksm skwnw
-wwe
-we
-sjhkdsjdsdnsjdnsdjsjdsnjdjsdnsjndjn
+sjgshdjsdsd s ds d sd s ds ds duysiduhsjkdjs dsdusdisijdisds djsduhsdjsjdskdksjkdjsds dsjdnskdjsjjds dsudjshdsjdnsjdsd sdjsndnskds
+dsdjs
+sd
+sdjss
 s
-ds
+dsssd
 
 sdsds
 sjsdhkj
