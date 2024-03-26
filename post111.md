@@ -3,8 +3,7 @@ title: Building page transitions with react-router v6 and framer motion
 subtitle: Setting up the basic building blocks to customize the UX
 domain: favo-demo.hashnode.dev
 tags: react, react-router, ux, animations
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709629630452/_-nGde1z0.jpg?auto=format
-publishAs: Favourite
+publishAs: favouritejome
 hideFromHashnodeCommunity: true
 ---
 
@@ -166,6 +165,7 @@ Using the (react-dev-tools)[https://react.dev/learn/react-developer-tools] helps
 ![DevTools hierarchy](https://cdn.hashnode.com/res/hashnode/image/upload/v1709625976339/kS7PNhbE4.png?auto=format)
 
 If you increase the transition duration in the `motion.div` component, you can see both components rendered in parallel, where the first one is exiting and the second is entering:
+
 ![Exit and Enter transitions](https://cdn.hashnode.com/res/hashnode/image/upload/v1709626466732/CIMsyjqLP.png?auto=format)
 
 Once the exiting component has finished rendering, it will be removed from the react component tree and will be completely gone.
