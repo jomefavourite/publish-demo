@@ -1,8 +1,9 @@
 ---
-title: Building page transitions with react-router v6 and framer motion
+title: Building page transitions with react router v6 and framer motion
+slug: dkjsd
 subtitle: Setting up the basic building blocks to customize the UX
 domain: favo-demo.hashnode.dev
-tags: react, react-router, ux, animations
+tags: react
 publishAs: Favourite
 hideFromHashnodeCommunity: true
 ---
