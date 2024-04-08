@@ -1,6 +1,6 @@
 ---
 title: Building page transitions with react router v6 and framer motion
-slug: dkjsd
+slug: dkjsdkjd
 subtitle: Setting up the basic building blocks to customize the UX
 domain: favo-demo.hashnode.dev
 tags: react
